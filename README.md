@@ -17,7 +17,7 @@ This project is a Pytorch implementation from scratch of the paper [Barlow Twins
 
 This model was trained with the CIFAR training set during 170 epochs . It was then evaluated on the CIFAR validation set by a linear layer trained on top of a frozen Barlow Twins model.
 
-* Training was done on Tesla P100 and takes around 1:40 min per epoch
+* Training was done on Tesla P100-PCIE-16GB and takes around 1:40 min per epoch
 
 Work is still in progress, here are the current results:
 
