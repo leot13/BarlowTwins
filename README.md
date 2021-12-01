@@ -21,7 +21,7 @@ This model was trained with the CIFAR training set during 170 epochs . It was th
 
 Work is still in progress, here are the current results:
 
-Epochs | Batch Size | Acc top1 |
+Epochs | Batch Size | Top1 Acc |
 --- | --- | --- |
 170 | 256 | 66.32 | 
 
